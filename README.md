@@ -4,6 +4,10 @@
 
 MCP (Model Context Protocol) server for interacting with Metasploit Framework on Kali Linux and other security-focused distributions.
 
+<a href="https://glama.ai/mcp/servers/@andreransom58-coder/kali-metasploit-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@andreransom58-coder/kali-metasploit-mcp/badge" alt="Kali Metasploit Server MCP server" />
+</a>
+
 ## ⚠️ Security Warning
 
 **This tool is for authorized security testing only. Use responsibly and legally.**

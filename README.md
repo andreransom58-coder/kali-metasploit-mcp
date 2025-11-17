@@ -55,7 +55,7 @@ sudo apt-get install nmap
 
 1. Clone or download this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/kali-metasploit-mcp.git
+git clone https://github.com/andreransom58-coder/kali-metasploit-mcp.git
 cd kali-metasploit-mcp
 ```
 
@@ -247,4 +247,3 @@ This software is provided for educational and authorized testing purposes only. 
 - [Metasploit Framework](https://www.metasploit.com/) by Rapid7
 - [Model Context Protocol](https://modelcontextprotocol.io/) by Anthropic
 - Kali Linux community
-
